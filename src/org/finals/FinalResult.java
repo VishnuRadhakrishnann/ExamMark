@@ -12,5 +12,7 @@ public static void main(String[] args) {
 	FinalResult b=new FinalResult();
 	b.tamilMark();
 	b.mayMonthResult();
+	System.out.println("12");
+	System.out.println("14");
 }
 }
