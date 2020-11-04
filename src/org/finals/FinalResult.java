@@ -6,6 +6,7 @@ public class FinalResult extends SubjectMark  {
 	
 	public void mayMonthResult() {
 		System.out.println("All clear");
+		System.out.println("all done");
 	
 	}
 public static void main(String[] args) {
